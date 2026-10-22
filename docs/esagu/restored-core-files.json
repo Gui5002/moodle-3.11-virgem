@@ -1,0 +1,28 @@
+{
+  "baseline": "5540b0e42f3c3614480796c8cbb2034d3ba9b019",
+  "source": "1f9f0c036c9646ae19ad807db248919556a1057f",
+  "paths": [
+    "admin/templates/setting.mustache",
+    "admin/templates/setting_description.mustache",
+    "blocks/login/block_login.php",
+    "blocks/myprofile/styles.css",
+    "blocks/myprofile/templates/myprofile.mustache",
+    "blocks/navigation/styles.css",
+    "blocks/settings/styles.css",
+    "filter/mediaplugin/styles.css",
+    "grade/report/grader/styles.css",
+    "h5p/h5plib/v124/joubel/editor/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css",
+    "h5p/h5plib/v124/joubel/editor/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css",
+    "lib/classes/output/icon_system_fontawesome.php",
+    "lib/editor/atto/plugins/html/yui/build/moodle-atto_html-codemirror/assets/moodle-atto_html-codemirror-core.css",
+    "lib/editor/atto/plugins/html/yui/src/codemirror/assets/moodle-atto_html-codemirror-core.css",
+    "lib/templates/loginform.mustache",
+    "lib/yuilib/3.17.2/assets/skin/sam/skin.css",
+    "media/player/videojs/styles.css",
+    "mod/feedback/styles.css",
+    "pix/i/completion-auto-y.svg",
+    "pix/i/completion-manual-y.svg",
+    "report/outline/styles.css",
+    "theme/boost/style/moodle.css"
+  ]
+}

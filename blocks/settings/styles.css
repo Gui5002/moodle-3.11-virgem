@@ -31,7 +31,7 @@
 }
 
 .block_settings .block_tree .active_tree_node {
-    font-weight: 600;
+    font-weight: bold;
 }
 
 .block_settings .block_tree [aria-expanded="true"] {
@@ -49,7 +49,6 @@
 .block_settings .block_tree [aria-expanded="false"] p.loading {
     background-image: url('[[pix:i/loading_small]]');
 }
-
 /*rtl:raw:
 .block_settings .block_tree [aria-expanded="false"] {background-image: url('[[pix:t/collapsed_rtl]]');}
 .block_settings .block_tree [aria-expanded="true"].emptybranch {background-image: url('[[pix:t/collapsed_empty_rtl]]');}
@@ -59,6 +58,6 @@
     display: block;
 }
 
-.block_settings .block_tree [aria-hidden="true"]:not(.icon) {
+.block_settings .block_tree  [aria-hidden="true"]:not(.icon) {
     display: none;
 }

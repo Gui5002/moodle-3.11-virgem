@@ -1,0 +1,357 @@
+[
+  {
+    "status": "D",
+    "path": ".gitattributes",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".github/FUNDING.yml",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".github/workflows/config-template.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".github/workflows/push.yml",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": ".gitignore",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/babel-plugin-add-module-to-define.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/components.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/jsdoc/README.md",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/jsdoc/jsdoc.conf.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/eslint.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/gherkinlint.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/ignorefiles.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/javascript.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/jsconfig.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/jsdoc.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/sass.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/shifter.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/startup.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/style.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/stylelint.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": ".grunt/tasks/watch.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "D",
+    "path": "README.txt",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "admin/settings/appearance.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "admin/templates/setting.mustache",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "admin/templates/setting_description.mustache",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "backup/moodle2/backup_stepslib.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "backup/util/ui/classes/output/copy_form.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "blocks/login/block_login.php",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "blocks/myprofile/styles.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "blocks/myprofile/templates/myprofile.mustache",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "blocks/navigation/styles.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "blocks/settings/styles.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "blog/locallib.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "course/edit_form.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "course/renderer.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "course/search.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "course/templates/course_search_form.mustache",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "filter/mediaplugin/styles.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "grade/report/grader/styles.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "h5p/h5plib/v124/joubel/editor/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "h5p/h5plib/v124/joubel/editor/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "h5p/h5plib/v124/joubel/editor/ckeditor/skins/bootstrapck/sample/bootstrapck-sample.html",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lang/en/moodle.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/authlib.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/classes/output/icon_system_fontawesome.php",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "lib/classes/user.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/editor/atto/plugins/html/yui/build/moodle-atto_html-codemirror/assets/moodle-atto_html-codemirror-core.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "lib/editor/atto/plugins/html/yui/src/codemirror/assets/moodle-atto_html-codemirror-core.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "lib/editor/tinymce/plugins/moodleimage/tinymce/css/image.css",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/editor/tinymce/plugins/moodlemedia/tinymce/css/media.css",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/editor/tinymce/tiny_mce/3.5.11/themes/advanced/charmap.htm",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/editor/tinymce/tiny_mce/3.5.11/themes/advanced/skins/highcontrast/dialog.css",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/enrollib.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/moodlelib.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/myprofilelib.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "lib/templates/loginform.mustache",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "lib/yuilib/3.17.2/assets/skin/sam/skin.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "login/signup_form.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "media/player/videojs/styles.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "message/externallib.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "mod/feedback/styles.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "pix/i/completion-auto-y.svg",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "pix/i/completion-manual-y.svg",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "privacy/export_files/general.css",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "report/outline/styles.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "theme/boost/style/moodle.css",
+    "resolution": "restored-to-main"
+  },
+  {
+    "status": "M",
+    "path": "theme/classic/style/moodle.css",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "user/amd/build/local/participants/bulkactions.min.js",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "user/edit_form.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "user/editadvanced.php",
+    "resolution": "pending-review"
+  },
+  {
+    "status": "M",
+    "path": "user/editlib.php",
+    "resolution": "pending-review"
+  }
+]

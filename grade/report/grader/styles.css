@@ -123,7 +123,6 @@
     text-overflow: ellipsis;
     overflow: hidden;
 }
-
 /**
  * Content styling.
  */
@@ -143,7 +142,7 @@
 
 .path-grade-report-grader .gradeparent tr:nth-child(n) td.overridden:nth-child(n) {
     /* Made very specific to override the default stripped style of the table. */
-    background-color: #1e60a13d;
+    background-color: #efd9a4;
 }
 
 .path-grade-report-grader .gradeparent tr:nth-child(n) td.ajaxoverridden:nth-child(n) {

@@ -267,7 +267,8 @@ if (!empty($THEME->settings->footertype) && $THEME->settings->footertype == 9) {
 }
 $ccnSheetsAppend[] = 'custom';
 $ccnSheets = array_merge($ccnSheetsReset, $ccnSheetsTheme, $ccnSheetsAppend);
-$THEME->sheets = $ccnSheets;
+// Core styles are restored; load extracted deltas before the existing EVAGU styles.
+$THEME->sheets = array_merge(['esagu-core-overrides'], $ccnSheets);
 // A dock is a way to take blocks out of the page and put them in a persistent floating area on the side of the page. Boost
 // does not support a dock so we won't either - but look at bootstrapbase for an example of a theme with a dock.
 $THEME->enable_dock = false;

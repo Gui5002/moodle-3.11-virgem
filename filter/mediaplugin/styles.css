@@ -13,10 +13,9 @@
     /* Make videos as wide as possible without being wider than their containers */
     width: 100%;
     max-width: 100%;
-    background: #000;
 }
 
-.mediaplugin>div {
+.mediaplugin > div {
     margin: auto;
 }
 

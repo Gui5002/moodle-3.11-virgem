@@ -1,9 +1,9 @@
-.block_navigation .block_tree .depth_1>.tree_item.branch {
+.block_navigation .block_tree .depth_1 > .tree_item.branch {
     padding-left: 0;
     background-image: none;
 }
 
-.block_navigation .block_tree .depth_1>ul {
+.block_navigation .block_tree .depth_1 > ul {
     margin: 0;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .block_navigation .block_tree .active_tree_node {
-    font-weight: 600;
+    font-weight: bold;
 }
 
 .block_navigation .block_tree [aria-expanded="true"] {
